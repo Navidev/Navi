@@ -9,6 +9,7 @@ NAVI is an intelligent AI routing platform that analyzes user requests and dynam
 - Routes it to the right AI tool automatically
 - Supports multiple AI categories (text, image, search, code, and more)
 - Built for speed, accuracy, and extensibility
+- Dynamically extracts missing context from users through smart follow-up questions to build the most accurate prompt possible
 
 ## Status
 
